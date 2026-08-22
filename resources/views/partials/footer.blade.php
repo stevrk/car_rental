@@ -128,11 +128,7 @@
                         </div>
                     </div>
                     
-                    <!-- Emergency Contact -->
-                    <div>
-                        <p class="text-gray-400 text-xs font-medium uppercase tracking-wider mb-1">Emergency Contact</p>
-                        <p class="text-gray-300 text-sm font-semibold">+265 888 123 456</p>
-                    </div>
+                   
                 </div>
             </div>
             

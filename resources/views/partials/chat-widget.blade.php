@@ -1,6 +1,6 @@
 <!-- Floating WhatsApp Button -->
 <div id="whatsapp-widget" class="fixed bottom-6 right-6 z-50">
-    <a href="https://wa.me/265888123456?text=Hello!%20I%20would%20like%20to%20inquire%20about%20renting%20a%20car." 
+    <a href="https://wa.me/265997979011?text=Hello!%20I%20would%20like%20to%20inquire%20about%20renting%20a%20car." 
        target="_blank" 
        rel="noopener noreferrer"
        class="bg-green-500 hover:bg-green-600 text-white rounded-full px-5 py-3.5 shadow-2xl transition-all duration-300 hover:scale-105 flex items-center gap-3 group">
